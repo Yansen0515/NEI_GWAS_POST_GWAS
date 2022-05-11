@@ -1,4 +1,4 @@
-# Genome-wide association study and functional annotation analyses for nitrogen use efficiency index and its composition traits in dairy cattle
+# Genome-wide association study and functional annotation analyses for nitrogen efficiency index and its composition traits in dairy cattle
 
 #### *HD_supplemental_file.zip* contains 6 supplemental files, the 1st, 2nd, and 4th files are in Excel format, and the remaining 3 are in Word format.
 
