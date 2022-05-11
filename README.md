@@ -2,9 +2,9 @@
 **Whole Title:** 
 Genome-wide association study and functional annotation analyses for nitrogen use efficiency index and its composition traits in dairy cattle
 
-#### *HD_supplemental_file.zip* contains 6 supplemental files, the 1st, 2nd, and 4th files were in Excel format, and the remaining 3 were in Word format.
+#### *HD_supplemental_file.zip* contains 6 supplemental files, the 1st, 2nd, and 4th files are in Excel format, and the remaining 3 are in Word format.
 
-The files ordered as follows: 
+The files are ordered as follows: 
 - Supplemental_file_1_GO_enrichment.xlsx
 - Supplemental_file_2_KEGG_enrichment.xlsx
 - Supplemental_file_3_PPI.docx
